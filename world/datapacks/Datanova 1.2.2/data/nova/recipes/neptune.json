@@ -1,0 +1,31 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#X#",
+    "ETN",
+    " O "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "E": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "N": {
+      "item": "minecraft:sea_lantern"
+    },
+    "X": {
+      "item": "minecraft:sea_pickle"
+    },
+    "O": {
+      "item": "minecraft:end_rod"
+    },
+    "T": {
+      "item": "minecraft:trident"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

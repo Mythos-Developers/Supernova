@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"axeUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "nova:hephaestusaxe"
+			}
+		}	
+	},
+	"rewards": {
+		"function": "nova:customcraft/hephaestus_func"
+	}
+}

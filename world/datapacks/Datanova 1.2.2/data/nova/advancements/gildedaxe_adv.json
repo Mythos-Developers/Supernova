@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"neptUnlocked": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "nova:neptune"
+			}
+		}	
+	},
+	"rewards": {
+		"function": "nova:neptune_func"
+	}
+}
